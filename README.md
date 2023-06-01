@@ -1,6 +1,6 @@
 
 
-# Upscaling Images Using ESRGAN
+# Enhancing Image Quality using ESRGAN
 
 This project focuses on upscaling low-resolution images using ESRGAN (Enhanced Super-Resolution Generative Adversarial Networks). ESRGAN is a deep learning-based technique that leverages generative adversarial networks to enhance image resolution and quality.
 
@@ -59,18 +59,17 @@ shutil.move(source,destination)
 ```
 
 ## Output Results
-1. Image 1
+1. Image 1\
 ![image 1](https://github.com/Taha533/Enhancing-Image-Quality-using-ESRGAN/blob/main/Output/result_1.png?raw=true)
 
-2. Image 2
+2. Image 2\
 ![Image 2](https://github.com/Taha533/Enhancing-Image-Quality-using-ESRGAN/blob/main/Output/result_2.png?raw=true)
 
-3. Image 3
+3. Image 3\
 ![image 3](https://github.com/Taha533/Enhancing-Image-Quality-using-ESRGAN/blob/main/Output/results_3.png?raw=true)
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to me:
-
+If you have any questions or suggestions, feel free to reach out to me:\
 E-mail: taha15@cse.pstu.ac.bd \
 Linkedin: https://www.linkedin.com/in/bahauddin-taha-67617315b/
 
